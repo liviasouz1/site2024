@@ -1,13 +1,14 @@
-@charset "UTF-8"
+@charset "UTF-8";
 body
 {
-background-color: rgb(207, 180, 139);
-color: cor;
+background-color: rgb(247, 172, 197);
+color: black;
 font-size: 12pts;
-font-family: arial;
+font-family: Arial;
 }
 
-h.
+h1
+
 {
-    color: black;
+    color: aliceblue;
 }
