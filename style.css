@@ -3,12 +3,40 @@ body
 {
 background-image: linear-gradient(to right, #b96f50,#eebda9);
 color: rgb(255, 255, 255);
-font-size: 12pts;
+font-size: 20pts;
 font-family: Arial;
+text-align: center;
+text-decoration: none;
+margin: none;
+
 }
 
 h1
-
 {
-    color: rgb(0, 0, 0);
+ color: rgb(0, 0, 0);
+ font-size: 30pt;
+ font-family: arial; 
+}
+
+
+h2
+{
+color: black;
+font-size: 20pt;
+font-family: arial;
+}
+
+a
+
+h3
+{
+    color: black;
+    font-size: 12pt;
+    font-family: arial;  
+}
+
+a
+{
+color: blue;
+text-decoration: none;
 }
