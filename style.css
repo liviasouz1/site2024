@@ -40,3 +40,9 @@ a
 color: blue;
 text-decoration: none;
 }
+
+.linha1{
+        font-size: 20pts;
+        font-family: Arial;
+        color: red;
+}

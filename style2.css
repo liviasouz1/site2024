@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+
+    .linha1 {
+        font-size: 20pts;
+        font-family: Arial; 
+    }
+}
