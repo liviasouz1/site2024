@@ -41,8 +41,15 @@ color: blue;
 text-decoration: none;
 }
 
-.linha1{
-        font-size: 20pts;
-        font-family: Arial;
+.impar{
         color: red;
+        font-size: 16pt;
+        font-family: Arial;
+
+}
+
+.par{
+    font-size: 20pt;
+    color: blue;
+    font-family: Verdana;
 }
